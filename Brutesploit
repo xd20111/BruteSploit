@@ -169,8 +169,8 @@ echo "  | __  |___ _ _| |_ ___|   __|___| |___|_| |_ "
 echo "  | __ -|  _| | |  _| -_|__   | - | | - | |  _| "
 echo "  |_____|_| |___|_| |___|_____|  _|_|___|_|_| "
 echo "                              |_|             "
-echo -e $lightgreen'-- -- +=[(c) 2017-2018 | dracos-linux.org | Kali.org | Hacker Indonesia '
-echo -e $cyan'-- -- +=[ Author: Screetsec < Edo Maland >  ]=+ -- -- '
+echo -e $lightgreen'-- -- +=[(c) 2017-2018 | dracos-linux.org | @xd20111 | Kali.org | Hacker Indonesia '
+echo -e $cyan'-- -- +=[ Coded by: Screetsec < Edo Maland >  ]=+ -- -- '
 echo -e " "
 
 if [ $(id -u) != "0" ]; then
@@ -253,7 +253,8 @@ echo -e "\t "$green"¦----"$red"►  "$white" Bruteforce & Wordlist Sploit Frame
 echo -e "\t "$green"¦----"$red"►  "$white" Codename "$green": "$red"$CODENAME   "
 echo -e "\t "$green"¦----"$red"►  "$white" Version  "$green": "$red"$VERSION  "
 echo -e "\t "$green"¦----"$red"►  "$white" Modules  "$green": "$red"21 "$green"Modules  "
-echo -e "\t "$green"¦----"$red"►  "$white" Github   "$green": "$BlueF"www.github.com/screetsec  \n\n"
+echo -e "\t "$green"¦----"$red"►  "$white" Github   "$green": "$BlueF"www.github.com/screetsec "
+echo -e "\t "$green"¦----"$red"►  "$white" Github   "$green": "$BlueF"www.github.com/xd20111 \n\n"
 }
 
 
@@ -453,10 +454,13 @@ sleep 1
 echo -e $yellow"[*] Thank You For Using Brutsploit  =)."
 echo ""
 sleep 1
-echo -e $red"[*] Follow me in Github ."
+echo -e $red"[*] Follow us in Github ."
 echo ""
 sleep 1
 echo -e $okeegreen"[*] www.github.com/screetsec ."
+echo ""
+sleep 1
+echo -e $okeegreen"[*] www.github.com/xd20111 ."
 echo ""
 sleep 1
 echo -e $yellow"[*] Check Dracos Linux LFS, Penetration OS From Indonesia  =P."
