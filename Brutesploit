@@ -2019,7 +2019,7 @@ fu_un_attack_4 ()
 							echo -e "\t "$white"options           example           value "
 							echo -e "\t "$red"-------           -------           -----"
 							echo ""
-							echo -e $green"\t username         "$cyan" screetsec         $_user"
+							echo -e $green"\t username         "$cyan" xd20111         $_user"
 							echo -e $green"\t wordlist         "$cyan" pass.txt          $_word"
 							echo -e $green"\t proxy		  "$cyan" proxy.txt         $_prox"
 							echo -e $green"\t thread           "$cyan" 4                 $_thread"
