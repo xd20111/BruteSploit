@@ -418,12 +418,12 @@ fu_un_info () {
 f_un_info_credits () { #
 
 		echo -e "\t"$green"¦"
-		echo -e "\t"$green"¦ Credits - Special Thanks to Allah "
 		echo -e "\t"$green"¦"
 		echo -e "\t"$green"¦––––$red►"$green" Dracos Linux ( www.dracos-linux.org )  "
-  	echo -e "\t"$green"¦––––$red►"$green" Backbox indonesia ( www.www.backboxindonesia.or.id )  "
+  		echo -e "\t"$green"¦––––$red►"$green" Backbox indonesia ( www.www.backboxindonesia.or.id )  "
 		echo -e "\t"$green"¦––––$red►"$green" Offensive Security for the awesome OS"
 		echo -e "\t"$green"¦––––$red►"$green" Kali Linux ( http://www.kali.org/ )  "
+		echo -e "\t"$green"¦––––$red►"$green" http://www.yourhacker.tk/"
 		echo -e "\t"$green"¦––––$red►"$green" http://www.kitploit.com/"
 		echo -e "\t"$green"¦––––$red►"$green" Big Thanks to : http://www.github.com/ \n\n"
 }
