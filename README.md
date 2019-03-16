@@ -60,8 +60,8 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - Backbox indonesia ( www.www.backboxindonesia.or.id )  
 - Offensive Security for the awesome OS
 - Kali Linux ( http://www.kali.org/ )  
-- http://www.kitploit.com/
-- https://www.yourhacker.in
+  www.kitploit.com/
+- www.yourhacker.in
 - Big Thanks to : http://www.github.com/ 
 
 
