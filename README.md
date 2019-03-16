@@ -61,7 +61,7 @@ Be sure to check out the [Changelog] and Read CHANGELOG.md
 - Offensive Security for the awesome OS
 - Kali Linux ( http://www.kali.org/ )  
 - http://www.kitploit.com/
-- https://www.yourhacker.tk/
+- https://www.yourhacker.in
 - Big Thanks to : http://www.github.com/ 
 
 
